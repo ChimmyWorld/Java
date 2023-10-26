@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/7월 AWS활용 웹 융합 SW개발자 신재희/라이브러리/jackson-annotations-2.14.2.jar"/>
+	<classpathentry kind="lib" path="E:/7월 AWS활용 웹 융합 SW개발자 신재희/라이브러리/jackson-core-2.14.2.jar"/>
+	<classpathentry kind="lib" path="E:/7월 AWS활용 웹 융합 SW개발자 신재희/라이브러리/jackson-databind-2.14.2.jar" sourcepath="C:/Users/itbank/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.14.2/jackson-databind-2.14.2-sources.jar"/>
+	<classpathentry kind="lib" path="E:/7월 AWS활용 웹 융합 SW개발자 신재희/라이브러리/json-20230227.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
